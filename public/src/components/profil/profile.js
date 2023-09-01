@@ -24,7 +24,7 @@ static get observeAttributes () {
         this.shadowRoot.innerHTML =
         `
         <section>
-        <h1> ${this.name}</h1>
+        <h1><stron> ${this.name}</strong></h1>
         <p> ${this.specie}</p>
         <p> ${this.gender}</p>
         <p> ${this.house}</p>

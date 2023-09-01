@@ -1,0 +1,16 @@
+section {
+    background-color: antiquewhite;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: black;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: maroon;
+}
